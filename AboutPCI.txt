@@ -1,0 +1,16 @@
+------pci-------------
+https://habr.com/ru/articles/182152/
+https://www.ixbt.com/mainboard/pci.html
+https://spravochnick.ru/lektoriy/shina-pci-osnovnoy-mehanizm-peredach-na-pci/
+https://osdev.fandom.com/ru/wiki/Функционирование_шины_PCI#Управление_передачей
+https://stackoverflow.com/questions/21852454/retrieving-pci-coordinates-by-windows-api-user-mode
+https://stackoverflow.com/questions/36311149/accessing-the-pci-config-space-with-win32-api?rq=3
+https://www.cyberforum.ru/win-api/thread1271187.html
+https://learn.microsoft.com/en-us/windows-hardware/drivers/pci/accessing-pci-device-configuration-space
+https://forums.codeguru.com/showthread.php?387511-PCI-Express-read-write
+https://github.com/andre-richter/easy-pci-mmap/tree/master  (for linux?)?
+
+----по wav----------
+https://www.cyberforum.ru/cpp-beginners/thread2021365.html
+https://pro-prof.com/forums/topic/load_and_play_uncompressed-wav-file
+https://programmersought.com/article/93124026233/
